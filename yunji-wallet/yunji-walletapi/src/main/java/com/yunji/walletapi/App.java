@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
+        System.out.println( "Hello World! 20190307 09:55" );
+        System.out.println( "Hello World! 20190307 09:55" );
     }
 }
