@@ -12,5 +12,6 @@ public class App
         System.out.println( "service Hello World!" );
         System.out.println( "service Hello World!" );
         System.out.println( "service Hello World! 20190305" );
+        System.out.println( "merge 2! 20190307" );
     }
 }
